@@ -1,7 +1,7 @@
 # Portfolio
-This is my github portfolio for all my personal projects
+This is my GitHub portfolio for all my personal projects
 
-I am currently on vacation and will finish updating my portfolio shortly!
+I am currently on vacation and will finish updating my portfolio soon!
 
 ## Projects
 
