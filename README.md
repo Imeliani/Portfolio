@@ -14,3 +14,4 @@ To launch it run in the terminal
 node index.js
 ```
 
+### Other projects will be added soon
